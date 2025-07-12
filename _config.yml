@@ -1,0 +1,49 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Christian's Dev Notes
+email: christian.gilli11@gmail.com
+description: >-
+  This is my personal website where I mostly write about programming stuff
+  and other things that I find interesting.
+baseurl: ""
+url: "https://gilli.dev"
+twitter_username: nirw4nna
+github_username:  nirw4nna
+
+
+# Build settings
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+giscus:
+  repo: "nirw4nna/nirw4nna.github.io"
+  repo_id: "R_kgDOL8l-5A"
+  category: "Announcements"
+  category_id: "DIC_kwDOL8l-5M4Cs2g_"
+  mapping: "pathname"
+  reactions_enabled: "1"
+  emit_metadata: "0"
+  theme: "light"
+  lang: "en"
