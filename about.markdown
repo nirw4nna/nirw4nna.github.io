@@ -15,7 +15,6 @@ I'm currently working on [DSC](https://github.com/nirw4nna/dsc), a tensor librar
 
 Here I'll mostly write about things I stumble upon while building DSC. If you find any of this interesting you can drop me an email so we can chat!
 
-
 <div style="clear: both;"></div>
 
 
@@ -24,3 +23,9 @@ Here I'll mostly write about things I stumble upon while building DSC. If you fi
 - **[YAMI](https://github.com/nirw4nna/YAMI)**: a tensor library and inference engine written from scratch in C++, inspired by GGML. 
 
 - **[matmul-playground](https://github.com/nirw4nna/matmul-playground)**: a benchmarking/autotuning framework for matrix multiplications on CPU. Used to finetune the matmul kernel in YAMI.
+
+
+<br>
+<br>
+If you find my work valuable, consider supporting it via GitHub Sponsors!
+<iframe src="https://github.com/sponsors/nirw4nna/button" title="Sponsor nirw4nna" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
