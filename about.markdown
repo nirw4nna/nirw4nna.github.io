@@ -13,7 +13,7 @@ I'm Christian Gilli, a software engineer based in Italy.
 
 I'm currently working on [DSC](https://github.com/nirw4nna/dsc), a tensor library written from scratch in C++ & Python.
 
-Here I'll mostly write about things I stumble upon while building DSC. If you find any of this interesting you can drop me an email so we can chat!
+Here I'll mostly write about things I stumble upon while building DSC. If you find any of this interesting you can <button class="ml-onclick-form" onclick="ml('show', 'qnXnW3', true)">Subscribe</button> to the mailing list!
 
 <div style="clear: both;"></div>
 
